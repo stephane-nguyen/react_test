@@ -4,6 +4,7 @@ A repository regrouping all of my react test:
 * grocery list 
 * fetch data through a website and display it in a list and an array
 * react router V6
+* redux toolkit
 
 
 must launch the json server for the grocery list and the blog 
